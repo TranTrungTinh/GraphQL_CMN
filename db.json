@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": "20",
+      "firstName": "Nguyen Van Ti",
+      "age": 17,
+      "companyId": "2"
+    },
+    {
+      "id": "21",
+      "firstName": "Tran Van Tun",
+      "age": 19,
+      "companyId": "3"
+    },
+    {
+      "id": "22",
+      "firstName": "Le Van Toi",
+      "age": 21,
+      "companyId": "1"
+    },
+    {
+      "id": "34",
+      "firstName": "Trinh Thi Le",
+      "age": 19,
+      "companyId": "1"
+    },
+    {
+      "id": "36",
+      "firstName": "Tran Nhu Nguyen",
+      "age": 22,
+      "companyId": "2"
+    },
+    {
+      "id": "38",
+      "firstName": "Nguyen Nhu Tran",
+      "age": 25,
+      "companyId": "3"
+    },
+    {
+      "id": "40",
+      "firstName": "Le Nhu Quynh",
+      "age": 27,
+      "companyId": "3"
+    },
+    {
+      "id": "23",
+      "firstName": "Nguyen Van Tui",
+      "age": 23,
+      "companyId": "4"
+    },
+    {
+      "firstName": "Tran Van Tin",
+      "age": 20,
+      "id": "27",
+      "companyId": "5"
+    },
+    {
+      "firstName": "Nguyen Thi Be",
+      "age": 33,
+      "id": "24",
+      "companyId": "6"
+    },
+    {
+      "firstName": "Tran Thi Nho",
+      "age": 22,
+      "id": "25",
+      "companyId": "7"
+    },
+    {
+      "firstName": "Le Thi To",
+      "age": 25,
+      "id": "26",
+      "companyId": "8"
+    },
+    {
+      "firstName": "Huynh Van Ti",
+      "age": 30,
+      "id": "30",
+      "companyId": "9"
+    },
+    {
+      "firstName": "Hoang Van Tun",
+      "age": 34,
+      "id": "32",
+      "companyId": "10"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iPhone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search"
+    },
+    {
+      "id": "3",
+      "name": "SamSung",
+      "description": "Galaxy"
+    },
+    {
+      "id": "4",
+      "name": "Facebook",
+      "description": "Social Network"
+    },
+    {
+      "id": "5",
+      "name": "Amazone",
+      "description": "Ecommerce"
+    },
+    {
+      "id": "6",
+      "name": "IBM",
+      "description": "IT"
+    },
+    {
+      "id": "7",
+      "name": "MicroSoft",
+      "description": "Software"
+    },
+    {
+      "id": "8",
+      "name": "Intel",
+      "description": "CPU"
+    },
+    {
+      "id": "9",
+      "name": "Oracle",
+      "description": "Database"
+    },
+    {
+      "id": "10",
+      "name": "Alphabel Inc",
+      "description": "AI"
+    }
+  ]
+}
