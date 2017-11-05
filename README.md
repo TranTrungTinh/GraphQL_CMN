@@ -1,4 +1,4 @@
-# GraphQL_CMN
+# Basic Demo GraphQL
   Example project using GraphQL
 
 ## Installation
@@ -7,7 +7,7 @@ git clone https://github.com/TranTrungTinh/GraphQL_CMN.git
 ```
 
 ```
-cd CNM_DAGK
+cd GraphQL_CMN
 ``` 
 
 ```
